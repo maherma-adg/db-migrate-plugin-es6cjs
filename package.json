@@ -1,0 +1,25 @@
+{
+  "name": "db-migrate-plugin-es6cjs",
+  "version": "0.0.1",
+  "description": "db-migrate plugin for accept .cjs files when packaje.json has \"type\": \"module\" set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maherma/db-migrate-plugin-es6cjs.git"
+  },
+  "keywords": [
+    "dbmigrate",
+    "db-migrate",
+    "es6",
+    "cjs"
+  ],
+  "author": "Manuel Martinez <maherma@asdeguiaingenieria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maherma/db-migrate-plugin-es6cjs/issues"
+  },
+  "homepage": "https://github.com/maherma/db-migrate-plugin-es6cjs#readme"
+}
